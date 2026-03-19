@@ -8,7 +8,7 @@ Actualmente en formación inicial en IES Sotero Hernández. Mi objetivo es desar
 **Habilidades en Desarrollo (Enero 2026)**
 
 * **Lógica y Programación:** Fundamentos de algoritmos y bases de la programación orientada a objetos utilizando Java.
-* **Entornos Web y Datos:** Estructuración de contenido web (HTML/CSS) y gestión de bases de datos relacionales mediante SQL.
+* **Entornos Web y Datos:** Estructuración de contenido web (HTML/CSS/JAVASCRIPT) y gestión de bases de datos relacionales mediante SQL.
 * **Flujo de Trabajo Técnico:** Uso de Git para control de versiones y manejo de entornos de desarrollo profesionales (IDE).
 
 **Objetivos para el periodo de prácticas (FCT)**
@@ -19,5 +19,5 @@ Busco integrarme en un equipo profesional para iniciarme en las metodologías de
 
 **Contacto**
 
-* **LinkedIn:** (Perfil en proceso)
+* **LinkedIn:** www.linkedin.com/in/antonio-garcia-gonzalez
 * **Correo electrónico:** antoniogargon18@gmail.com
