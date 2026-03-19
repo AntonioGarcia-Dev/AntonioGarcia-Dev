@@ -5,7 +5,7 @@ Actualmente en formación inicial en IES Sotero Hernández. Mi objetivo es desar
 
 ---
 
-**Habilidades en Desarrollo (Enero 2026)**
+**Habilidades en Desarrollo**
 
 * **Lógica y Programación:** Fundamentos de algoritmos y bases de la programación orientada a objetos utilizando Java.
 * **Entornos Web y Datos:** Estructuración de contenido web (HTML/CSS/JAVASCRIPT) y gestión de bases de datos relacionales mediante SQL.
